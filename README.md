@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋! I'm Janderson</h1>
-[![trophy](https://github-profile-trophy.vercel.app/?username=janderson4lmeida)](https://github.com/ryo-ma/github-profile-trophy)
 ###
 
 <p align="center">A passionate fullstack developer from Brazil</p>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=janderson4lmeida)](https://github.com/janderson4lmeida/github-profile-trophy)
 ###
 
 <div align="left">
