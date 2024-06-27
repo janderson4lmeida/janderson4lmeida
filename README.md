@@ -1,4 +1,5 @@
 <h2 align="center">Hi 👋! My name is Janderson Almeida</h2>
+[![trophy](https://github-profile-trophy.vercel.app/?username=janderson4lmeida)](https://github.com/janderson4lmeida/github-profile-trophy)
 
 ###
 
