@@ -6,12 +6,6 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="200" src="https://media.licdn.com/dms/image/D4E03AQFe_gTSosBpTQ/profile-displayphoto-shrink_800_800/0/1718309257916?e=1724889600&v=beta&t=JS-l-Xm4uh_FDEQ0LQx99AQ2l0f_7PRQScBTYjjhYxw"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
   <img width="12" />
