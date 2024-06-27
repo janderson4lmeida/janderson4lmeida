@@ -35,12 +35,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/janderson4lmeida/janderson4lmeida/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <a href="https://www.linkedin.com/in/janderson-almeida/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="62" height="50" alt="linkedin logo"  />
