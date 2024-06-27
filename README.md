@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋! I'm Janderson</h1>
+
 ###
 
 <p align="center">A passionate fullstack developer from Brazil</p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=janderson4lmeida)](https://github.com/janderson4lmeida/github-profile-trophy)
+
 ###
 
 <div align="left">
@@ -30,12 +31,6 @@
   <a href="janderson.almeidaa@outlook.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="47" height="35" alt="microsoft-outlook logo"  />
   </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
 </div>
 
 ###
