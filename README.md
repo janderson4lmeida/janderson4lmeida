@@ -8,7 +8,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=janderson4lmeida&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true" height="148" alt="languages graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=janderson4lmeida&theme=dracula&no-frame=true&no-bg=true" height="150" alt="trophy graph"  />
 </div>
