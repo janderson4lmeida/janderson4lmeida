@@ -46,3 +46,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/janderson4lmeida/janderson4lmeida/output/snake.svg" alt="Snake animation" />
+
+###
