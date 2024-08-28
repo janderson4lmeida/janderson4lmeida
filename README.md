@@ -2,21 +2,9 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=janderson4lmeida.janderson4lmeida&"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=janderson4lmeida.janderson4lmeida&"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=janderson4lmeida&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=janderson4lmeida&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=janderson4lmeida&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true" height="148" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=janderson4lmeida&theme=dracula&no-frame=true&no-bg=true" height="150" alt="trophy graph"  />
 </div>
 
 ###
@@ -47,6 +35,8 @@
 
 ###
 
+<br clear="both">
+
 <img align="right" height="145" src="https://whoissamjarvis.com/wp-content/uploads/2016/09/jim-halpert-looks-at-computer-shakes-head.gif"  />
 
 ###
@@ -54,5 +44,11 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/janderson4lmeida/janderson4lmeida/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/janderson4lmeida/count.svg?"  />
+</div>
 
 ###
