@@ -2,6 +2,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/janderson4lmeida/count.svg?"  />
+</div>
+
+###
+
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=janderson4lmeida&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true" height="148" alt="languages graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=janderson4lmeida&theme=dracula&no-frame=true&no-bg=true" height="150" alt="trophy graph"  />
@@ -9,7 +15,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="49" alt="javascript logo"  />
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="49" alt="typescript logo"  />
@@ -35,10 +41,8 @@
 
 ###
 
-<img align="right" height="145" src="https://whoissamjarvis.com/wp-content/uploads/2016/09/jim-halpert-looks-at-computer-shakes-head.gif"  />
-
-###
-
-<img align="right" src="https://profile-counter.glitch.me/janderson4lmeida/count.svg?"  />
+<div align="center">
+  <img height="145" src="https://whoissamjarvis.com/wp-content/uploads/2016/09/jim-halpert-looks-at-computer-shakes-head.gif"  />
+</div>
 
 ###
