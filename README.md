@@ -42,7 +42,7 @@
 ###
 
 <div align="center">
-  <img height="145" src="https://whoissamjarvis.com/wp-content/uploads/2016/09/jim-halpert-looks-at-computer-shakes-head.gif"  />
+  <img height="206" src="https://whoissamjarvis.com/wp-content/uploads/2016/09/jim-halpert-looks-at-computer-shakes-head.gif"  />
 </div>
 
 ###
